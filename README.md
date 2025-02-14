@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🎓 I’m a learner with a passion to sustain in the market.
-- 🌱 I’m currently learning [Technologies/Topics you are currently learning].
-- 👯 I’m looking to collaborate on [Projects/Topics you are interested in collaborating on].
-- 💬 Ask me about [Topics you are knowledgeable about].
+- 🌱 I’m currently learning Technological stack.
+- 👯 I’m looking to create good opportunities.
 - 📫 How to reach me: [Your Email/LinkedIn/Twitter/Other Contact Info].
 - ⚡ Fun fact: everything is new even after you learn everyday.
 
