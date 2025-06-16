@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🎓 I’m a learner with a passion to sustain in the market.
-- 🌱 I’m currently learning Technological stack.
+- 🌱 I’m currently learning Technological stacks like Artificial intelligence,Blockchain,Quantum Computing.
 - 👯 I’m looking to create good opportunities.
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter/Other Contact Info].
+- 📫 How to reach me: lp128396@gmail.com .
 - ⚡ Fun fact: everything is new even after you learn everyday.
 
 <!--
