@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
+- full name lakshmi prasanna polipireddi
 - 🎓 I’m a learner with a passion to sustain in the market.
 - 🌱 I’m currently learning Technological stacks like Artificial intelligence,Blockchain,Quantum Computing.
 - 👯 I’m looking to create good opportunities.
